@@ -7,7 +7,6 @@ This project demonstrates the full pipeline from
 **data processing → modeling → optimization → API deployment → system evaluation**.
 
 ---
-
 ## 🚀 Overview
 
 Energy grids face increasing complexity due to:
@@ -26,7 +25,6 @@ This system provides:
 ✔ Scalable, production-ready architecture  
 
 ---
-
 ## 🎯 Problem Statement
 
 Modern energy systems require:
@@ -43,7 +41,6 @@ This project bridges:
 > **Physics + Machine Learning + Optimization + Deployment**
 
 ---
-
 ## 🧠 Key Features
 
 ### 1️⃣ Time-Series Forecasting
