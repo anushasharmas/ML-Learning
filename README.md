@@ -5,5 +5,3 @@ This repository contains my machine learning learning notes, experiments, and pr
 ## Progress
 - [x] Python for ML basics
 - [x] First ML model: Linear Regression
-- [ ] Classification algorithms
-- [ ] Real-world ML projects
