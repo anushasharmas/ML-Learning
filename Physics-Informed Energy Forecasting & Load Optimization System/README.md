@@ -36,7 +36,6 @@ Traditional ML models ignore physical system behavior.
 This project bridges:
 
 > **Physics + Machine Learning + Optimization + Deployment**
-
 ---
 ## 🧠 Key Features
 
