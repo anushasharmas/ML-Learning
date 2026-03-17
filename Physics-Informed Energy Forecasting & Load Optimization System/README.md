@@ -7,8 +7,6 @@ This project demonstrates the full pipeline from
 **data processing → modeling → optimization → API deployment → system evaluation**.
 ---
 ## 🚀 Overview
-
-
 Energy grids face increasing complexity due to:
 - Fluctuating demand
 - Renewable energy variability
