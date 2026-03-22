@@ -1,4 +1,4 @@
-# ⚡ Physics-Informed Energy Forecasting & Load Optimization System
+# Physics-Informed Energy Forecasting & Load Optimization System
 
 An end-to-end Machine Learning system that integrates **physics principles, time-series forecasting,
 optimization, and deployment** to improve energy demand prediction and grid efficiency.
