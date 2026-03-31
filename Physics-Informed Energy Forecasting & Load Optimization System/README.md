@@ -14,7 +14,6 @@ Energy grids face increasing complexity due to:
 - Peak load inefficiencies
 
 This system provides:
-
 ✔ Accurate energy demand forecasting  
 ✔ Physics-informed modeling  
 ✔ Load optimization strategy  
