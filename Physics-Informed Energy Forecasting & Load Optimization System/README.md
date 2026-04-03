@@ -12,7 +12,6 @@ Energy grids face increasing complexity due to:
 - Renewable energy variability
 - Infrastructure constraints
 - Peak load inefficiencies
-
 This system provides:
 ✔ Accurate energy demand forecasting  
 ✔ Physics-informed modeling  
