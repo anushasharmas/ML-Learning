@@ -53,7 +53,6 @@ This project bridges:
 - Demand redistribution
 - Cost-aware optimization
 - Constraint-based scheduling
-
 ### 4️⃣ API Deployment
 - REST API using FastAPI
 - Real-time prediction endpoint
