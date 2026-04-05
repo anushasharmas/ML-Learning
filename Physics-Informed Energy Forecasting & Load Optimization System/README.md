@@ -41,7 +41,6 @@ This project bridges:
 - Historical demand modeling
 - Feature engineering (lags, rolling statistics, seasonality)
 - ML-based regression models
-
 ### 2️⃣ Physics-Informed Modeling
 - Energy balance constraints
 - Capacity constraints
