@@ -47,7 +47,6 @@ This project bridges:
 - Capacity constraints
 - Load distribution rules
 - Conservation-aware loss components
-
 ### 3️⃣ Load Optimization
 - Peak shaving strategy
 - Demand redistribution
